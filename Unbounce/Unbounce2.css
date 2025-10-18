@@ -89,9 +89,6 @@ nav a{
 ul > li {
     border-bottom: 4px solid #444;
 }
-.unbounce >ul>li{
-    /* position: relative; */
-}
 .unbounce >ul>li>a{
     display: flex;
     align-items: center;
