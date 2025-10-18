@@ -314,7 +314,7 @@ hr{
     font-size: 2em;
 }
 .section1 p{
-    width: 360px;
+    width: 330px;
     font-weight: bold;
 }
 .integration{
@@ -344,7 +344,6 @@ hr{
     align-items: center;
     justify-content: center;
     text-align: center;
-    /* padding: 2em; */
 }
 #stack svg{
     cursor: pointer;
@@ -571,15 +570,15 @@ hr{
     text-align: center;
 }
 .section5 h3{
-    font-size: 2em;
-    font-weight: 15em;
-    width: 400px;
+    font-size: 1.5em;
+    font-weight: 10em;
+    width: 330px;
 }
 .section5 p{
-    width: 390px;
+    width: 330px;
 }
 .section5 img{
-    width: 400px;
+    width: 330px;
     height: 300px;
 }
 footer{
